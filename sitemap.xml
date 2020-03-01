@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gonstream.github.io/lattelovesmocha/blog/</loc>
+    <lastmod>2020-01-11T19:42:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gonstream.github.io/lattelovesmocha/categories/</loc>
+    <lastmod>2020-01-11T19:42:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gonstream.github.io/lattelovesmocha/tags/interesting/</loc>
     <lastmod>2020-01-11T19:42:56+09:00</lastmod>
   </url>
   
@@ -18,17 +28,28 @@
   </url>
   
   <url>
+    <loc>https://gonstream.github.io/lattelovesmocha/blog/my-first-entry/</loc>
+    <lastmod>2020-01-11T19:42:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gonstream.github.io/lattelovesmocha/tags/post/</loc>
+    <lastmod>2020-01-11T19:42:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gonstream.github.io/lattelovesmocha/post/</loc>
+    <lastmod>2020-01-11T19:42:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gonstream.github.io/lattelovesmocha/tags/</loc>
     <lastmod>2020-01-11T19:42:56+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://gonstream.github.io/lattelovesmocha/categories/talking/</loc>
     <lastmod>2020-01-11T19:42:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gonstream.github.io/lattelovesmocha/tags/</loc>
   </url>
   
 </urlset>
