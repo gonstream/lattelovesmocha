@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>Latte - All rights reserved</copyright>
-    <lastBuildDate>Sat, 11 Jan 2020 19:42:56 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 19:42:56 +0900</lastBuildDate>
     
 	<atom:link href="https://gonstream.github.io/lattelovesmocha/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wake up</title>
+      <link>https://gonstream.github.io/lattelovesmocha/blog/wakeup/</link>
+      <pubDate>Sat, 29 Feb 2020 19:42:56 +0900</pubDate>
+      
+      <guid>https://gonstream.github.io/lattelovesmocha/blog/wakeup/</guid>
+      <description>Don&#39;t sleep in sofa</description>
+    </item>
     
     <item>
       <title>My First Entry</title>
